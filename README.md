@@ -2,6 +2,8 @@
 
 ==============================
 
+Find the main results on my blog: [Street View Image Segmentation with PyTorch and Facebook Dectectron2 (CPU+GPU)](http://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-dectectron2-cpugpu/)
+
 ## Installation
 
 - Install [Anaconda Python](https://docs.anaconda.com/anaconda/install/mac-os/) for MacOS.
