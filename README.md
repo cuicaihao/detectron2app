@@ -2,7 +2,7 @@
 
 ==============================
 
-Find the main results on my blog: [Street View Image Segmentation with PyTorch and Facebook Dectectron2 (CPU+GPU)](http://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-dectectron2-cpugpu/)
+Find the main results on my blog: [Street View Image Segmentation with PyTorch and Facebook Dectectron2 (CPU+GPU)](https://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-detectron2-cpugpu/)
 
 ## Installation
 
@@ -45,7 +45,7 @@ CC=clang CXX=clang++ python -m pip install -e detectron2
 
 ## Notebook for Image/Video Segmentation.
 
-1. [CPU macOS (image, video)](<./Detectron2\ Test(CPU-MacOS).ipynb>)
+1. [CPU macOS (image, video)](./Detectron2_Demo_macOS_CPU.ipynb)
 2. [GPU Colab: Detectron2 Tutorial](./Detectron2_Tutorial_Colab_GPU.ipynb) This is original tutorial notebook open this with Colab to enable the GPU.
 
 Reference:
