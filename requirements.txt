@@ -66,7 +66,7 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.16.0
 python-dateutil==2.8.1
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==19.0.1
 qtconsole @ file:///home/conda/feedstock_root/build_artifacts/qtconsole_1589392299544/work
 QtPy==1.9.0
