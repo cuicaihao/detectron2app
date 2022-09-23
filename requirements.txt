@@ -51,7 +51,7 @@ Pillow==7.1.2
 portalocker==1.7.0
 prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
-protobuf==3.12.2
+protobuf==3.18.3
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
