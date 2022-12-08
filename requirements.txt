@@ -5,7 +5,7 @@ autopep8 @ file:///home/conda/feedstock_root/build_artifacts/autopep8_1591017828
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 cachetools==4.1.0
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 cloudpickle==1.4.1
 cycler==0.10.0
