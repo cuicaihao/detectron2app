@@ -90,7 +90,7 @@ traitlets==4.3.3
 urllib3==1.25.9
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1591600393557/work
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 widgetsnbextension==3.5.1
 yacs==0.1.7
 zipp==3.1.0
